@@ -32,7 +32,7 @@ public void setSubject(String subject) {
 	this.subject = subject;
 }  
 }
-class Student{
+class Student{ 
  private String name;
   private int grade;
   Student(String name, int grade){
